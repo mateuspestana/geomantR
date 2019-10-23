@@ -53,7 +53,7 @@ geomantR <- function(symbol = "o"){
   geo4 <- geomantic %>% dplyr::select(2)
 
   # fort <-paste("Parte da Fortuna: Figura", partefort) # To be implemented...
-  knitr::kable(list(geo1, geo2, geo3, geo4), align = "c",escape = T)
+  knitr::kable(list(geo1, geo2, geo3, geo4), align = "c",escape = T, format = "markdown")
 }
 
 
