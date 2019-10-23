@@ -1,6 +1,6 @@
 # GeomantR - Geomancia no R
 
-English version [below](## English version) 
+English version [below](#english-version) 
 
 ### Overview 
 
