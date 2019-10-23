@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(dplyr, select, mutate_all)
+importFrom(magrittr, `%>%`)
+importFrom(knitr, kable)
